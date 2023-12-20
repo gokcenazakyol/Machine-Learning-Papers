@@ -5,3 +5,5 @@ Drive Link: https://drive.google.com/drive/folders/1bPsoVuY2Lq-2jN0ezJMvrvenuLwi
 ## Papers
 ### Generative Models
 - Generative Adversarial Nets
+### Natural Language Processing
+- It's Not Just Size That Matters Small Language Models Are Also Few-Shot Learners
